@@ -1,5 +1,8 @@
+body{
+    background-color: color(from color srgb r g b);
+}
+
+
 h1{
     color:rgba(41, 7, 24, 0.336)
-
 }
-ima
