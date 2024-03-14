@@ -4,14 +4,15 @@ body{
 
 
 h1{
-    color:rgba(231, 15, 87, 0.027)
-}text-aling:right
+    color:rgba(231, 15, 87, 0.027);
+    text-align:right;
+}
  p   {
-        color:rgb(15, 228, 68) 
+        color:rgb(15, 228, 68) ;
     }
 
     img{
         width: 7%;
-        display:auto
-        margin:auto
+        display:auto;
+        margin:auto;
 }
