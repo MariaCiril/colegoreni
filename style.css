@@ -5,7 +5,7 @@ body{
 
 h1{
     color:rgba(248, 245, 246, 0.027)
-}
+}text-aling:right
  p   {
         color:rgb(15, 228, 68) 
     }
@@ -15,4 +15,3 @@ h1{
         display:auto
         margin:auto
 }
-font_family:ariel
