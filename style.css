@@ -1,5 +1,5 @@
 body{
-    background-color: color(from color srgb r g b);
+    background-color:hwb(0 0% 100%);
 }
 
 
